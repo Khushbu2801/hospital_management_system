@@ -1,0 +1,13 @@
+.contain-table{
+    width: auto;
+    margin:2rem;
+    font-size: 1.3rem;
+    color: rgb(39, 32, 32);
+    background-color: rgb(151, 148, 160);
+}
+h1{
+    padding: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    
+}
